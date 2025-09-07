@@ -1,9 +1,9 @@
 # COMP3123 – Lab Exercise 1
 
 ## Student Info
-- **Name:** Heemal Syangbo
-- **Student ID:** <YOUR_STUDENT_ID_HERE>
-- **Course:** COMP3123
+- Name: Heemal Syangbo
+- Student ID: 101532464
+- Course: COMP3123
 
 ## Files
 - `index.html` → opens in a browser, loads `lab01.js`
