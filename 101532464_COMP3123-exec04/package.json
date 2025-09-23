@@ -1,0 +1,21 @@
+{
+  "name": "101532464-comp3123-exec04",
+  "version": "1.0.0",
+  "description": "Express assignment by Heemal Syangbo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Heemal Syangbo",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
